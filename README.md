@@ -1,3 +1,5 @@
 # DataSocietyApr7
 
-we can add text in RStudio
+We can add text in RStudio
+
+We can also add text editing in GitHub
