@@ -1,6 +1,8 @@
 ---
 title: "SampleRMDApr7"
-output: github_document
+output: 
+  html_document: 
+    keep_md: yes
 date: "2025-04-07"
 ---
 
